@@ -1,4 +1,3 @@
 {
-"AGWCDEV":
 [{"target" : "SAP_PAG(CAG410)", "success" : "true"},{"target" : "SAP_PA2(CA2410)", "success" : "true"},{"target" : "SAP_PAA(CAG410)", "success" : "false"}]
 }
