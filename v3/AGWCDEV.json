@@ -1,0 +1,1 @@
+{"messageName": "connectivityInformation","serviceInstance": "AGWCDEV","trackingID": "0050568706ed1ed890b0b2eef0c819b2","connectivityDetails": [{"targetName": "SAP DM","target": "DDM","result": "false"},{"targetName": "SAP AG","target": "PAG","result": "true"}]}
