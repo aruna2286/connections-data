@@ -1,0 +1,20 @@
+{
+	  
+   "messageName": "connectivityInformation",
+	   "serviceInstance": "AGWCPROD",
+	   "trackingID": "0050568706ed1ed890b0b2eef0c819b2",
+	   "connectivityDetails": [
+		  
+      {  
+         "targetName":"SAP DM",
+         "target":"PDM",
+         "result":"true"
+      }   
+      {  
+         "targetName":"SAP AG",
+         "target":"PAG",
+         "result":"true"
+      }  
+   
+	]
+}
