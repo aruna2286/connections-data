@@ -1,0 +1,17 @@
+{  
+   "messageName":"connectivityInformation",
+   "serviceInstance":"AGWCQA3",
+   "trackingID":"0050568706ed1ed890b0b2eef0c819b2",
+   "connectivityDetails":[  
+      {  
+         "targetName":"SAP DM",
+         "target":"DM3",
+         "result":"true"
+      }   
+      {  
+         "targetName":"SAP AG",
+         "target":"AG3",
+         "result":"true"
+      }  
+   ]
+}  
